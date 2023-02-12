@@ -1,0 +1,13 @@
+python-dotenv==0.21.1
+dataclasses_json==0.5.7
+pandas-ta
+tensorflow==2.11.0
+statsmodels==0.13.5
+dataclasses_json==0.5.7
+pandas_ta
+python-dotenv==0.21.1
+statsmodels==0.13.5
+pandas_datareader==0.10.0
+pmdarima==2.0.2
+prophet
+yfinance==0.2.11
